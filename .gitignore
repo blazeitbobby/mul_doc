@@ -1,0 +1,14 @@
+virtual_environment/
+# documents/
+__pycache__/
+# .gitignore
+
+# Microsoft Office temporary files
+~$*
+
+# General temporary files
+*.tmp
+*.temp
+
+# macOS folder attributes file
+.DS_Store
